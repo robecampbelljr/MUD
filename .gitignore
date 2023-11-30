@@ -127,6 +127,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+evenv/
+evennia/
 
 # Spyder project settings
 .spyderproject
