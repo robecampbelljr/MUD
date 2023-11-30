@@ -7,7 +7,7 @@ This MUD is built using the [evennia] framework. Evennia is a MUD development to
 [evennia]: https://github.com/evennia/evennia.git
 
 ### Purpose
-This is a "tutorial world". I will be following the evennia [Evennia Beginner Tutorial]. I will be using this README's in the _Journal/_ folder to for notes during the learning process as well as anecdotal experiences while following the tutorial.
+This is a "tutorial world". I will be following the [Evennia Beginner Tutorial]. I will be using this README's in the _Journal/_ folder to for notes during the learning process as well as anecdotal experiences while following the tutorial.
 
 [Evennia Beginner Tutorial]: https://www.evennia.com/docs/latest/Howtos/Howtos-Overview.html#beginner-tutorial
 
