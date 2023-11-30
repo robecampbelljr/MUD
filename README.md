@@ -121,7 +121,7 @@ If everything is working correctly your terminal should have "(evenv)" to the le
 ```
 (evenv) ComputerName:MUD Username$ []
 ```
-That (evenv) indicates the virtual environment is running corectly.
+That (evenv) indicates the virtual environment is running correctly.
 ### 7. Update pip and pip's setuptools
 pip is the Pythong package installer. Before we do anymore work we want to make sure pip and Python's setuptools are up to date. run the following commands:
 ```
