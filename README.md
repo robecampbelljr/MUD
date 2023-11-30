@@ -7,12 +7,12 @@ This MUD is built using the [evennia] framework. Evennia is a MUD development to
 [evennia]: https://github.com/evennia/evennia.git
 
 ### Purpose
-This is a "tutorial world". I will be following the evennia [Beginner Tutorial]. I will be using this README's in the _Journal/_ folder to for notes during the learning process as well as anecdotal experiences while following the tutorial.
+This is a "tutorial world". I will be following the evennia [Evennia Beginner Tutorial]. I will be using this README's in the _Journal/_ folder to for notes during the learning process as well as anecdotal experiences while following the tutorial.
 
-[Beginner Tutorial]: https://www.evennia.com/docs/latest/Howtos/Howtos-Overview.html#beginner-tutorial
+[Evennia Beginner Tutorial]: https://www.evennia.com/docs/latest/Howtos/Howtos-Overview.html#beginner-tutorial
 
 ### In This Repository
-This repository contains the _BeginnerTutorialWorld_. This world will contain all the code needed to run the world that I have created while following the [Beginner Tutorial]. If you wish to run the world yourself, you will have to:
+This repository contains the _BeginnerTutorialWorld_. This world will contain all the code needed to run the world that I have created while following the [Evennia Beginner Tutorial]. If you wish to run the world yourself, you will have to:
 1. Clone this repository
 2. Navigate to /MUD (the parent directory)
 3. Download OR clone [evennia] into the parent directory
@@ -161,7 +161,7 @@ BeginnerTutorialWorld Server 2.3.0 (rev 57f109c)
 # Congratulations!
 You can now connect to and explore the BeginnerTutorialWorld! Once connected, you will be instructed how to create a character and how to login.
 # Create your own world
-If you want to create your own world within this MUD/ parent directory you can! Following the instructions in the [initialize new game] tutorial on the [evennia docs] page to create your own world and follow the [Beginner Tutorial] yourself!
+If you want to create your own world within this MUD/ parent directory you can! Following the instructions in the [initialize new game] tutorial on the [evennia docs] page to create your own world and follow the [Evennia Beginner Tutorial] yourself!
 
 [initialize new game]: https://www.evennia.com/docs/latest/Setup/Installation.html#initialize-a-new-game
 [evennia docs]: https://www.evennia.com/docs/latest/index.html
