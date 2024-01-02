@@ -1,3 +1,7 @@
-def hello_world():
-  print("Hello World!")
-# Stopped at 3.4 om this section
+def send_msg_to(who, messag):
+  who.msg(f"{messag}")
+#
+
+def list_things_in_room(person):
+  list = person.search(*)
+  print(f"{list}")
